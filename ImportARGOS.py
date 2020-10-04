@@ -10,3 +10,6 @@
 ## Author: Emma.Wellbaum@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+# Import modules
+import sys, os, arcpy
+
